@@ -1,0 +1,22 @@
+# 環境変数・シークレット
+.env
+*.env
+
+# 出力ファイル
+output/
+test_panel.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
